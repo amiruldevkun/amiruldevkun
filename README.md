@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiruldevkun
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python but in the future i will learn java
+- 🌱 Right now main language is C# but i do have lua, python, c++ experience (just a bit though)
 - 📫 Reach me on my twitter @amirulplays
 
 <!---
