@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/amirulplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirulplays" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@m1rul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m1rul" height="30" width="40" /></a>
-<a href="https://discord.gg/amirulpants#9912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amirulpants#9912" height="30" width="40" /></a>
+<a href="https://discord.gg/#9912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9912" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
