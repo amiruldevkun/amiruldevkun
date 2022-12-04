@@ -11,15 +11,14 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **amirulpanda123456@gmail.com**
+- 📫 How to reach me: **amirulpanda123456@gmail.com**
 
-- ⚡ Fun fact **I make songs in my free time!**
+- ⚡ Fun fact: **I make songs in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amirulplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirulplays" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@m1rul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m1rul" height="30" width="40" /></a>
-<a href="https://discord.gg/#9912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9912" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@m1rul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m1rul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
